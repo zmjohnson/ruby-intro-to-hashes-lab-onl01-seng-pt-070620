@@ -1,5 +1,5 @@
 def new_hash
-	monopoly = {:railroads => {}}
+	test_hash = Hash.new
 end
 
 def actor
